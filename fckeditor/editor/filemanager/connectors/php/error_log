@@ -1,0 +1,5 @@
+[28-Apr-2009 11:16:05] PHP Warning:  chmod() has been disabled for security reasons in /home2/fkuteote/public_html/resources/fckeditor/editor/filemanager/connectors/php/commands.php on line 223
+[28-Apr-2009 11:17:25] PHP Warning:  chmod() has been disabled for security reasons in /home2/fkuteote/public_html/resources/fckeditor/editor/filemanager/connectors/php/commands.php on line 223
+[01-Jun-2009 09:20:04] PHP Fatal error:  Call to undefined function base_url() in /home2/fkuteote/public_html/resources/fckeditor/editor/filemanager/connectors/php/config.php on line 34
+[01-Jun-2009 09:20:04] PHP Fatal error:  Call to undefined function base_url() in /home2/fkuteote/public_html/resources/fckeditor/editor/filemanager/connectors/php/config.php on line 34
+[01-Jun-2009 09:20:56] PHP Fatal error:  Call to undefined function base_url() in /home2/fkuteote/public_html/resources/fckeditor/editor/filemanager/connectors/php/config.php on line 34

@@ -1,0 +1,28 @@
+#dhtmltooltip
+{
+	border-right: black 1px solid;
+	padding-right: 10px;
+	border-top: black 1px solid;
+	padding-left: 10px;
+	font-size: 10pt;
+	z-index: 100;
+	filter: alpha(opacity=95);
+	left: -300px;
+	visibility: hidden;
+	padding-bottom: 10px;
+	border-left: black 1px solid;
+	padding-top: 10px;
+	border-bottom: black 1px solid;
+	font-family: tahoma;
+	position: absolute;
+	background-color: #FFFFCC;
+	width: 300px;
+	text-align:justify;
+}
+#dhtmlpointer
+{
+	z-index: 101;
+	left: -300px;
+	visibility: hidden;
+	position: absolute;
+}
